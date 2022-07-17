@@ -1,0 +1,233 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    width:1000px;
+}
+
+#header1{
+    position:fixed;
+    top:0;
+    left: 0;
+    z-index : 500;
+    z-index: 700;
+}
+
+
+#header{
+    position: fixed;
+    top:230px;
+    left: 0;
+    z-index : 500;
+    width   :1000px;
+    height  :950px;
+    background-repeat: repeat-x;
+}
+
+
+#tabs-top{
+    position: fixed;
+    top     : 180px;
+    left    : 0;
+    z-index : 700;
+    height  : 40px;
+    background-color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration : none;
+    background      : rgba(194, 189, 181, 0.8);
+    width           : 980px;
+    height          : 30px;
+    display         : block;
+    margin          : auto;
+    margin-top      : 0px;
+    padding         : 10px; 
+}
+
+#tabs-top a{
+    float   : left;
+    display : block;
+    width   : 33%;
+    height  :40px;
+    font-weight : 700;
+    color       : rgba(255, 115, 0, 0.973);
+    text-align  : center;
+    text-decoration : none;
+    padding-top     : 1px;  
+    font-size: 25px;
+}
+
+a.ak47{
+    position:relative;
+    z-index: 600;
+    text-decoration : none;
+    background      : rgba(240, 235, 210, 0.8);
+    width           : 540px;
+    height          : 500px;
+    display         : block;
+    margin-left: 150px;
+    margin-top      : 250px;
+    padding         : 1px; 
+    padding: 0 0 0 110px;
+    margin-bottom: 24px;
+    
+}
+
+.ak47 img{
+    height : 360px;
+    width   : 600px;
+    margin-top: 30px;
+  margin-left: -85px;
+ 
+   
+}
+
+.ak47 h3{
+    padding : 0;
+    margin-bottom :0;
+    font-size: 40px;
+    width :600px ;
+    color : #0e1fb4;
+}
+
+.ak47 p{
+    margin  : 0;
+    padding : 10;
+    width   : 500px;
+    color   :  rgba(255, 115, 0, 0.973);
+}
+
+
+#head {
+   position: relative;
+color: aliceblue;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+}
+
+#para {
+   color: aliceblue;
+   width: 880px;
+  float: left;
+}
+
+#tabs-top1{
+    position: relative;
+    top     : 0px;
+    left    : 0;
+    z-index : 700;
+    height  : 40px;
+    background-color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration : none;
+    background      : rgba(194, 189, 181, 0.8);
+    width           : 1000px;
+    height          : 30px;
+    display         : block;
+    margin          : auto;
+    margin-top      : 0px;
+    padding         : 10px; 
+    
+}
+
+#tabs-top1 a{
+    float   : left;
+    display : block;
+    width   : 33%;
+    height  :40px;
+    font-weight : 700;
+    color       : rgba(255, 115, 0, 0.973);
+    text-align  : center;
+    text-decoration : none;
+    padding-top     : 1px;  
+    font-size: 25px;
+}
+
+
+#header2{
+    position: fixed;
+    top:0px;
+    left: 0;
+    z-index : 500;
+    width   :1000px;
+    height  :950px;
+    background-repeat: repeat-x;
+}
+
+#table {
+    font-size: 20px;
+    color: aliceblue;
+    position: relative;
+    z-index: 600;
+    text-decoration : none;
+    display         : block;
+    margin-left: 150px;
+    margin-top      : 250px;
+    padding         : 1px; 
+    padding: 0 0 0 110px;
+    margin-bottom: 24px;
+}
+
+#btn {
+    background-color:rgba(248, 246, 246, 0.555);
+    border:none;
+    text-align: center;
+    display: inline-block;
+
+
+}
+
+#btn a{
+    float   : left;
+    display : block;
+    width   : 200px;
+    height  :40px;
+    font-weight : 700;
+    color       : rgba(17, 17, 19, 0.973);
+    text-align  : center;
+    text-decoration : none;
+    padding-top     : 1px;  
+    font-size: 30px;
+}
+
+.btn:hover{
+    background-color:whitesmoke;
+}
+
+#end{
+    
+    position:relative;
+    z-index: 600;
+    text-decoration : none;
+  color: white;
+    margin-left: -80px;
+    margin-top      : 250px;
+    padding         : 1px; 
+    padding: 0 0 0 110px;
+    margin-bottom: 24px; 
+}
+
+#btn1 {
+    background-color:rgba(241, 233, 233, 0.555);
+    border:none;
+    text-align: center;
+    display: inline-block;
+
+
+}
+
+#btn1 a{
+    float   : left;
+    display : block;
+    width   : 360px;
+    height  :40px;
+    font-weight : 700;
+    color       : rgba(17, 17, 19, 0.973);
+    text-align  : center;
+    text-decoration : none;
+    padding-top     : 1px;  
+    font-size: 30px;
+}
+
+.btn1:hover{
+    background-color:whitesmoke;
+}
